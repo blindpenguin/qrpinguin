@@ -1,11 +1,11 @@
 [package]
-name = "app"
+name = "qrpinguin"
 version = "0.1.0"
-description = "A Tauri App"
-authors = ["you"]
+description = "QR Generator"
+authors = ["Ferdinand 'BlindPenguin' Holzner"]
 license = ""
 repository = ""
-default-run = "app"
+default-run = "qrpinguin"
 edition = "2021"
 rust-version = "1.59"
 
